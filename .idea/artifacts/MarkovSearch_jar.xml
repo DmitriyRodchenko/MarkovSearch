@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MarkovSearch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarkovSearch</output-path>
+    <root id="archive" name="MarkovSearch.jar">
+      <element id="module-output" name="MarkovSearch" />
+    </root>
+  </artifact>
+</component>
